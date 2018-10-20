@@ -8,7 +8,7 @@ MQTT-v3.1.1 https://mcxiaoke.gitbooks.io/mqtt-cn/content/mqtt/01-Introduction.ht
 
 #### HTTP(超文本传输协议-RFC2616)
 
-https://github.com/wangzihaogithub/protocol/blob/master/HTTP%E5%8D%8F%E8%AE%AE(RFC2616)%E4%B8%AD%E6%96%87%E7%89%88.pdf
+HTTP-RFC2616 https://github.com/wangzihaogithub/protocol/blob/master/HTTP%E5%8D%8F%E8%AE%AE(RFC2616)%E4%B8%AD%E6%96%87%E7%89%88.pdf
 
 #### websocket(长链接通讯协议)
 
