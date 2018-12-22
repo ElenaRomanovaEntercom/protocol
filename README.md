@@ -37,3 +37,8 @@ websocket-v17 https://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-1
 
 # 其他
 webdoc https://developer.mozilla.org/zh-CN/
+
+
+# java代码使用示例
+
+https://www.programcreek.com/java-api-examples/?code=AdoptOpenJDK/openjdk-jdk10/openjdk-jdk10-master/jaxp/src/java.xml/share/classes/com/sun/org/apache/bcel/internal/generic/ClassGen.java
