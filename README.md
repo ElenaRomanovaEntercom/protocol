@@ -40,6 +40,10 @@ websocket-v16 https://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-1
 
 websocket-v17 https://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-17
 
+#### JVM规范
+
+http://blog.jamesdbloom.com/JVMInternals.html
+
 #### ffmpeg的logo。    
 
 ffmpeg-logo.png
