@@ -11,6 +11,10 @@ MQTT-v3.1.1 https://mcxiaoke.gitbooks.io/mqtt-cn/content/mqtt/01-Introduction.ht
 
 RTSP-v1.0 https://www.ietf.org/rfc/rfc2326.txt
 
+#### OAUTH(授权协议)
+
+https://oauth.net/2/
+
 
 #### HTTP(超文本传输协议-RFC2616)
 
